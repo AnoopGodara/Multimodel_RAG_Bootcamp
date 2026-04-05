@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pydantic-settings
+python-dotenv
+psutil
+pdfplumber
+pillow
+faiss-cpu
+sentence-transformers
+transformers
+torch --index-url https://download.pytorch.org/whl/cpu
+google-generativeai
+lxml
+python-docx
